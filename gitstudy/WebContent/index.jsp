@@ -3,11 +3,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>test</title>
 </head>
 <body>
-hello 
-
-hndsjb金卡绿卡减肥啦
+hello world
 </body>
 </html>
